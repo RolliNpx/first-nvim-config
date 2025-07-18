@@ -1,0 +1,28 @@
+    # Lazy.nvim specific directories
+    lazy/
+    lazy-lock.json
+    
+    # Treesitter specific directories
+    parser/
+    queries/
+    runtime/
+    
+    # Swap files, backup files, and undo files
+    *.swp
+    *.swo
+    *.bak
+    *.tmp
+    *.undo
+    
+    # LSP logs and data
+    .lsp/
+    .cache/
+    .local/share/nvim/lsp_servers/
+    
+    # Other common build/cache directories
+    build/
+    dist/
+    node_modules/
+    .DS_Store # macOS specific
+    Thumbs.db # Windows specific
+    
