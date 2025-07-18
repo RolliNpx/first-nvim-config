@@ -1,1 +1,1 @@
-first nvim config inspired by tonybanters and thepriemagen
+first nvim config inspired by tonybanters and theprimeagen
